@@ -122,7 +122,7 @@ Source: {source}
     return rag_chain.invoke(query)
 
 
-st.title("TP sur un Chatbot RAG")
+st.title("Chatbot sur l'intelligence artificielle ")
 st.caption("Basé sur un ensemble de pages Wikipédia.")
 
 if "messages" not in st.session_state:
