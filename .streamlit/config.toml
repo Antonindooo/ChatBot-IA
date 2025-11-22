@@ -1,0 +1,3 @@
+[general]
+# Les applications Streamlit en nuage sont compatibles avec Python 3.8 à 3.11
+pythonVersion = "3.11"
